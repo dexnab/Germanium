@@ -1,6 +1,6 @@
 # Germanium
 
-NOTICE: To read English version, please go to "[README-EN.md](https://github.com/dexnab/Germanium/blob/main/README-EN.md)"
+NOTICE: To read English version, please go to "[README-EN.md](README-EN.md)"
 
 ## 一、简介
 
