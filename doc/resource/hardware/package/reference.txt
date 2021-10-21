@@ -1,0 +1,1 @@
+"SOT23-3.pdf":"https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-sot-23/SOT3%2005-08-1631%20Rev%20D.pdf"

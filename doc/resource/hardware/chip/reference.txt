@@ -1,0 +1,5 @@
+"ao3400.pdf":"http://www.aosmd.com/pdfs/datasheet/ao3400.pdf"
+"2n7002.pdf":"https://pdf1.alldatasheet.com/datasheet-pdf/view/170640/STMICROELECTRONICS/2N7002.html"
+"ao3402.pdf":"https://pdf1.alldatasheet.com/datasheet-pdf/view/105186/ETC/AO3402.html"
+"cj3402.pdf":"https://pdf1.alldatasheet.com/datasheet-pdf/view/878526/JIANGSU/CJ3402.html"
+"cj3404.pdf":"https://pdf1.alldatasheet.com/datasheet-pdf/view/878527/JIANGSU/CJ3404.html"
